@@ -1,0 +1,6 @@
+{
+	"$mol_app_demo_title": "$mol demonstrations",
+	"$mol_app_demo_filter_hint": "Search demo...",
+	"$mol_app_demo_detail_empty_prefix": "No one demo with prefix \"",
+	"$mol_app_demo_detail_empty_postfix": "\""
+}
